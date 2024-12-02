@@ -50,8 +50,8 @@ A template project designed for building fast and efficient RESTful APIs with **
 
 
 ```bash
-git clone https://github.com/yourusername/your-project-name.git
-cd your-project-name
+git clone https://github.com/renartupits/node-fastify-mongoose-template.git
+cd node-fastify-mongoose-template
 ```
 
 ### Install dependencies using pnpm
